@@ -16,7 +16,7 @@ This lab handbook is licensed under a [Creative Commons Attribution - NonCommerc
 ### Onboarding checklist
 
 
-- [ ] Get building access to BST3 and Murdoch via CSB Access Request Form. 
+- [ ] Get building access to BST3 and Murdoch via [CSB Access Request Form](https://forms.office.com/pages/responsepage.aspx?id=ifT5nqDg606HzDpSYRL9DX0A_WxZc7xAiilyOn5VZDlUMFlVOUNMOUkzVzVFMEJXRkVLQzM2SkEyTCQlQCN0PWcu). 
 - [ ] Join Slack groups (Ask Keisuke or others for invite.)
 	- IshiharaLab
 	- Compbiopitt
