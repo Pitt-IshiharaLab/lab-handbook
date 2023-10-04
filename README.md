@@ -25,5 +25,18 @@ This lab handbook is licensed under a [Creative Commons Attribution - NonCommerc
 - [ ] Complete your info in [LabMembersInfo](https://docs.google.com/spreadsheets/d/1gm7NiiYUaOu9xGvc94AHQDnNEBrtlLbd7ZU5bwCZrD8/edit?usp=sharing), including the schedule tab.
 - [ ] Install printers in BST3 ([instructions](https://sites.pitt.edu/~gengkon/)). 
 
-# 3. Laboratory Etiquette
+# 3. Communication and Laboratory Etiquette
 
+**Open communication is the key for every aspect of lab activities!** We thrive on transparently sharing ideas, findings, and concerns among lab members, fostering an environment where everyone feels comfortable expressing their thoughts and collaborating effectively to achieve common research goals.
+
+Our main mode of digital communication is Slack and email. Slack is good for fast communication, while email is preferred for long text and archiving purposes.
+
+###In-person work hours and vacation/absences
+
+To promote spontaneous discussion, we expect you to spend a minimum of 50% of your non-class time physically in the lab.
+
+We will not impose core time. If you'd like to designate a certain day of the week for home office, please share this in the schedule tab in [LabMembersInfo](https://docs.google.com/spreadsheets/d/1gm7NiiYUaOu9xGvc94AHQDnNEBrtlLbd7ZU5bwCZrD8/edit?usp=sharing). Update your class schedule every semester.
+
+Mark your vacation/absence days on the lab calendar. If you plan to be be away for more than a week, let Keisuke know by email.
+
+For any reason, if things get busy or stressful and you cannot work well or as much as you envision, let others know.
