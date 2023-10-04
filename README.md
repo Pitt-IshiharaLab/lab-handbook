@@ -22,18 +22,20 @@ This lab handbook is licensed under a [Creative Commons Attribution - NonCommerc
 	- Compbiopitt
 	- Pittsburgh Assembloids 
 - [ ] Join [Pitt-IshiharaLab](https://github.com/Pitt-IshiharaLab) Github group. (Ask Keisuke for CDS membership).
-- [ ] Complete your info in [LabMembersInfo](https://docs.google.com/spreadsheets/d/1gm7NiiYUaOu9xGvc94AHQDnNEBrtlLbd7ZU5bwCZrD8/edit?usp=sharing), including the schedule tab.
+- [ ] Complete [LabMembersInfo](https://docs.google.com/spreadsheets/d/1gm7NiiYUaOu9xGvc94AHQDnNEBrtlLbd7ZU5bwCZrD8/edit?usp=sharing) including the schedule tab.
 - [ ] Install printers in BST3 ([instructions](https://sites.pitt.edu/~gengkon/)). 
 
 # 3. Communication and Laboratory Etiquette
 
-**Open communication** is the key for every aspect of lab activities! We thrive on transparently sharing ideas, findings, and concerns among lab members, fostering an environment where everyone feels comfortable expressing their thoughts and collaborating effectively to achieve common research goals.
+**Open communication** is the key for every aspect of lab activities!
 
-Our main mode of digital communication is Slack and email. Slack is good for fast communication, while email is preferred for long text and archiving purposes.
+We thrive on transparently sharing ideas, findings, and concerns among lab members, fostering an environment where everyone feels comfortable expressing their thoughts and collaborating effectively to achieve common research goals.
+
+Our main mode of digital communication is Slack and email. Slack is good for speed, while email is preferred for longer text and archiving purposes.
 
 ### In-person work hours and vacation/absences
 
-To promote spontaneous discussion, we expect you to spend a minimum of 50% of your non-class time physically in the lab.
+We expect you to spend a minimum of 50% of your non-class time physically in the lab. This promotes in-person communication.
 
 We will not impose core time. If you'd like to designate a certain day of the week for home office, please share this in the schedule tab in [LabMembersInfo](https://docs.google.com/spreadsheets/d/1gm7NiiYUaOu9xGvc94AHQDnNEBrtlLbd7ZU5bwCZrD8/edit?usp=sharing). Update your class schedule every semester.
 
