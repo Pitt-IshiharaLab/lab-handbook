@@ -22,6 +22,7 @@ This lab handbook is licensed under a [Creative Commons Attribution - NonCommerc
 	- Compbiopitt
 	- Pittsburgh Assembloids 
 - [ ] Join [Pitt-IshiharaLab](https://github.com/Pitt-IshiharaLab) Github group. (Ask Keisuke for CDS membership).
+- [ ] Join [sharepoint site](https://pitt.sharepoint.com/sites/ProjectB) for the CSB department.
 - [ ] Complete [LabMembersInfo](https://docs.google.com/spreadsheets/d/1gm7NiiYUaOu9xGvc94AHQDnNEBrtlLbd7ZU5bwCZrD8/edit?usp=sharing) including the schedule tab.
 - [ ] Install printers in BST3 ([instructions](https://sites.pitt.edu/~gengkon/)). 
 
