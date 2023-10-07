@@ -22,6 +22,7 @@ This lab handbook is licensed under a [Creative Commons Attribution - NonCommerc
 	- Compbiopitt
 	- Pittsburgh Assembloids 
 - [ ] Join [Pitt-IshiharaLab](https://github.com/Pitt-IshiharaLab) Github group. (Ask Keisuke for CDS membership).
+- [ ] Add ["Documents - Ishihara Lab"](https://pitt.sharepoint.com/sites/ishiharalab2/SitePages/CollabHome.aspx) to your OneDrive. (Ask Keisuke for membership).
 - [ ] Join [sharepoint site](https://pitt.sharepoint.com/sites/ProjectB) for the CSB department.
 - [ ] Complete [LabMembersInfo](https://docs.google.com/spreadsheets/d/1gm7NiiYUaOu9xGvc94AHQDnNEBrtlLbd7ZU5bwCZrD8/edit?usp=sharing) including the schedule tab.
 - [ ] Install printers in BST3 ([instructions](https://sites.pitt.edu/~gengkon/)). 
@@ -32,7 +33,8 @@ This lab handbook is licensed under a [Creative Commons Attribution - NonCommerc
 
 We thrive on transparently sharing ideas, findings, and concerns among lab members, fostering an environment where everyone feels comfortable expressing their thoughts and collaborating effectively to achieve common research goals.
 
-Our main mode of digital communication is Slack and email. Slack is good for speed, while email is preferred for longer text and archiving purposes.
+Our main mode of digital communication is Slack and email. Slack is good for speed, while email is preferred for longer text and archiving purposes. 
+Only members can post to our mailing list ishiharalab@group.pitt.edu.
 
 ### In-person work hours and vacation/absences
 
