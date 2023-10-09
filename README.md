@@ -22,8 +22,8 @@ This lab handbook is licensed under a [Creative Commons Attribution - NonCommerc
 	- Compbiopitt
 	- Pittsburgh Assembloids 
 - [ ] Join [Pitt-IshiharaLab](https://github.com/Pitt-IshiharaLab) Github group. (Ask Keisuke for CDS membership).
-- [ ] Add ["Documents - Ishihara Lab"](https://pitt.sharepoint.com/sites/ishiharalab2/SitePages/CollabHome.aspx) to your OneDrive. (Ask Keisuke for membership).
-- [ ] Join [sharepoint site](https://pitt.sharepoint.com/sites/ProjectB) for the CSB department.
+- [ ] Add shared folder to OneDrive. ([Site](https://pitt.sharepoint.com/sites/ishiharalab2/SitePages/CollabHome.aspx) > Documents > Add shortcut to your OneDrive > ReadMe)
+- [ ] Join [CSB Department's sharepoint site](https://pitt.sharepoint.com/sites/ProjectB).
 - [ ] Complete [LabMembersInfo](https://docs.google.com/spreadsheets/d/1gm7NiiYUaOu9xGvc94AHQDnNEBrtlLbd7ZU5bwCZrD8/edit?usp=sharing) including the schedule tab.
 - [ ] Install printers in BST3 ([instructions](https://sites.pitt.edu/~gengkon/)). 
 
