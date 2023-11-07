@@ -9,7 +9,7 @@ We hope that you'll learn a lot about stem cells, tissue engineering, biological
 
 This handbook was inspired by many others including [Aly](https://github.com/alylab/labmanual),  [Lowe-Power](https://github.com/lowepowerlab/lab_handbook) labs. It is meant to be continuously updated with input from lab members and others. If you have ideas on contents to add, items to clarify, please talk to me (Keisuke, PI).
 
-This lab handbook is licensed under a [Creative Commons Attribution - NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). If you’re a PI or a trainee in a different lab and want to write your own lab handbook, feel free to take inspiration from this one (and cite us!).
+This lab handbook is licensed under [CC BY-NC 4.0 Deed](https://creativecommons.org/licenses/by-nc/4.0/). If you’re a PI or a trainee in a different lab and want to write your own lab handbook, feel free to take inspiration from this one (and cite us!).
 
 # 2. Vision, Mission, and Values
 
