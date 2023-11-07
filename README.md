@@ -11,7 +11,23 @@ This handbook was inspired by many others including [Aly](https://github.com/aly
 
 This lab handbook is licensed under a [Creative Commons Attribution - NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). If you’re a PI or a trainee in a different lab and want to write your own lab handbook, feel free to take inspiration from this one (and cite us!).
 
-# 2. Getting started
+# 2. Vision, Mission, and Values
+
+**Vision:**
+The Ishihara lab envisions to engineer multicellular tissues as living, programmable materials.
+Engineered tissues with physiological and synthetic functions will act as new platforms that advance human health.
+
+**Mission:**
+Our group takes a synthetic approach to multicellular tissue biology. “Synthetic” embodies the experimental creation of states of physical organization and gene expression that push a multicellular system to all possible extremes.
+The synthetic approach allows us to discover novel regulatory molecules, dormant genetic programs, and general physical principles, which we will critically evaluate as next generation strategies for organ engineering.
+We will quantitatively capture tissue morphogenesis through imaging, computation, and molecular profiling.
+Using this knowledge, we will develop genetic, chemical, and physical tools to engineer form and function of *in vitro* tissues such as human brain and cardiac organoids.
+
+**Values:**
+Our core values are curiosity, teamwork, respect, and innovation.
+We are committed to creating a diverse team that is inclusive to all cultural and racial backgrounds.
+
+# 3. Getting started
 
 ### Onboarding checklist
 
@@ -27,7 +43,7 @@ This lab handbook is licensed under a [Creative Commons Attribution - NonCommerc
 - [ ] Complete [LabMembersInfo](https://docs.google.com/spreadsheets/d/1gm7NiiYUaOu9xGvc94AHQDnNEBrtlLbd7ZU5bwCZrD8/edit?usp=sharing) including the schedule tab.
 - [ ] Install printers in BST3 ([instructions](https://sites.pitt.edu/~gengkon/)). 
 
-# 3. Communication and Laboratory Etiquette
+# 4. Communication and Laboratory Etiquette
 
 **Open communication** is the key for every aspect of lab activities!
 
