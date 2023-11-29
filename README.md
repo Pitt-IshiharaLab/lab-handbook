@@ -59,7 +59,7 @@ We expect you to spend a minimum of 50% of your non-class time physically in the
 
 We will not impose core time. If you'd like to designate a certain day of the week for home office, please share this in the schedule tab in [LabMembersInfo](https://docs.google.com/spreadsheets/d/1gm7NiiYUaOu9xGvc94AHQDnNEBrtlLbd7ZU5bwCZrD8/edit?usp=sharing). Update your class schedule every semester.
 
-Mark your vacation/absence days on the lab calendar. If you plan to be be away for more than a week, let Keisuke know by email. For any reason, if you cannot work as much as you had planned, let others know.
+Mark your vacation/absence days on the lab calendar. If you plan to be be away for more than a week, let Keisuke know by email. 
 
 ### Emergencies and asking for help
 
