@@ -64,3 +64,5 @@ Mark your vacation/absence days on the lab calendar. If you plan to be be away f
 ### Emergencies and asking for help
 
 We understand that unexpected emergencies arise and you cannot work as you had planned. In such cases, please let Keisuke know (no need to share the details, if you feel uncomfortable). If necessary, reach out for help to your fellow lab members to cover during your absence, but take into account that each person has their own work and family duties.
+
+This is a test
