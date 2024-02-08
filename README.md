@@ -33,7 +33,7 @@ We are committed to creating a diverse team that is inclusive to all cultural an
 
 
 - [ ] Get building access to BST3 and Murdoch via [CSB Access Request Form](https://forms.office.com/pages/responsepage.aspx?id=ifT5nqDg606HzDpSYRL9DX0A_WxZc7xAiilyOn5VZDlUMFlVOUNMOUkzVzVFMEJXRkVLQzM2SkEyTCQlQCN0PWcu).
-- [ ] Join lab mailing list. (Ask Keisuke.)
+- [ ] Join lab mailing list via  [CSB Email List Subscription Form](https://forms.office.com/pages/responsepage.aspx?id=ifT5nqDg606HzDpSYRL9DdzwsnPuT99GkKDXIhKUpDlUQVk2QTRIMUxQM0lHUU5WTFJGWjU4V1k5Uy4u).
 - [ ] Join Slack groups (Ask Keisuke or others for invite.)
 	- IshiharaLab
 	- Compbiopitt
