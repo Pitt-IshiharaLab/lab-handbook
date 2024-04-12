@@ -55,7 +55,7 @@ Only members can post to the group's mailing list.
 
 ### In-person work hours and vacation/absences
 
-We expect you to spend a minimum of 50% of your non-class time physically in the lab. This promotes in-person communication.
+We expect you to spend a minimum of 50% of your non-class time physically in the lab. We need spontaneous, in-person communication.
 
 We will not impose core time. If you'd like to designate a certain day of the week for home office, please share this in the schedule tab in [LabMembersInfo](https://docs.google.com/spreadsheets/d/1gm7NiiYUaOu9xGvc94AHQDnNEBrtlLbd7ZU5bwCZrD8/edit?usp=sharing). Update your class schedule every semester.
 
