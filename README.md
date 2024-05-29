@@ -13,17 +13,17 @@ This lab handbook is licensed under [CC BY-NC 4.0 Deed](https://creativecommons.
 
 # 2. Vision, Mission, and Values
 
-**Vision:**
+### **Vision:**
 The Ishihara lab envisions to engineer multicellular tissues as living, programmable materials.
 Engineered tissues with physiological and synthetic functions will act as new platforms that advance human health.
 
-**Mission:**
+### **Mission:**
 Our group takes a synthetic approach to multicellular tissue biology. “Synthetic” embodies the experimental creation of states of physical organization and gene expression that push a multicellular system to all possible extremes.
 The synthetic approach allows us to discover novel regulatory molecules, dormant genetic programs, and general physical principles, which we will critically evaluate as next generation strategies for organ engineering.
 We will quantitatively capture tissue morphogenesis through imaging, computation, and molecular profiling.
 Using this knowledge, we will develop genetic, chemical, and physical tools to engineer form and function of *in vitro* tissues such as human brain and cardiac organoids.
 
-**Values:**
+### **Values:**
 Our core values are curiosity, teamwork, respect, and innovation.
 We are committed to creating a diverse team that is inclusive to all cultural and racial backgrounds.
 
