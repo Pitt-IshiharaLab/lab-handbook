@@ -1,2 +1,2 @@
 # Ishihara Lab Members
-- Luisa Escobar-Robledo
+- Luisa Escobar-Robledo| CPCB PhD student
