@@ -3,3 +3,6 @@
 - Yajushi Khurana | CPCB PhD student
 - Elijah Vangura | Undergraduate Student
 - Jin Jung | Computational Biology Undergraduate student
+
+# Honorary Lab Members
+- Momo Escobar-Zarrate | CPCB cat student
