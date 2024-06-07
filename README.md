@@ -38,11 +38,12 @@ We are committed to creating a diverse team that is inclusive to all cultural an
 	- IshiharaLab
 	- Compbiopitt
 	- Pittsburgh Assembloids 
-- [ ] Join [Pitt-IshiharaLab](https://github.com/Pitt-IshiharaLab) Github group. (Ask Keisuke for CDS membership).
 - [ ] Add shared folder to OneDrive. ([Site](https://pitt.sharepoint.com/sites/ishiharalab2/SitePages/CollabHome.aspx) > Documents > Add shortcut to your OneDrive > ReadMe)
 - [ ] Join [CSB Department's sharepoint site](https://pitt.sharepoint.com/sites/ProjectB).
 - [ ] Complete [LabMembersInfo](https://docs.google.com/spreadsheets/d/1gm7NiiYUaOu9xGvc94AHQDnNEBrtlLbd7ZU5bwCZrD8/edit?usp=sharing) including the schedule tab.
 - [ ] Install printers in BST3 ([instructions](https://sites.pitt.edu/~gengkon/)). 
+- [ ] Join [Pitt-IshiharaLab](https://github.com/Pitt-IshiharaLab) Github group. (Ask Keisuke for CDS membership).
+- [ ] Add your name to this repository's [LabMembers.md](LabMembers.md) following the [Ishihara Lab Git Tutorial](GitTutorial/IshiharaLabGitTutorial.md).
 
 # 4. Communication and Laboratory Etiquette
 
