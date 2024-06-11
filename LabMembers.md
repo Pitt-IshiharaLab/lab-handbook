@@ -1,6 +1,7 @@
 # Ishihara Lab
 
 ## Current Members
+- Keisuke Ishihara | PI, Assistant Professor
 - Luisa Escobar-Robledo | CPCB PhD student
 - Yajushi Khurana | CPCB PhD student
 - Elijah Vangura | Undergraduate Student
