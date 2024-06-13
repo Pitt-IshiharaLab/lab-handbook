@@ -5,16 +5,9 @@
 2. Shipping and receiving
 3. Inventory management of chemicals, plasmids, and mammalian cell lines
 4. Expanding and freezing cell lines for lab master stock
-5. Preparation of common reagents
-	- sterile H2O
-	- sterile PBS
-	- LB medium and LB plates with antibiotics
-6. Glass wash and autoclaving of common labware
-	- graduated cylinders
-	- glass beakers and media bottles
-	- pipette tips
-7. Chemical and bio-waste disposal
-8. Instructing lab safety and regulation compliance for group members
+5. Chemical and bio-waste disposal
+6. Instructing and assigning common lab chores among group members
+7. Instructing lab safety and regulation compliance for group members
 
 ## 2. Scientific projects (40% effort)
 1. Building and testing new reagents
@@ -31,16 +24,14 @@
 	- Spheroids, neural organoids, cardiac organoids, etc.
 
 ## 3. Training new lab members (10% effort)
-1. Basic sterile techniques and cell culture
-2. Basic molecular biology and cloning
-3. Basic immunofluorescence procedures and microscopy
-3. Preparation of specialty reagents
-	- 1-propanol dehydration solutions
-	- high DMSO solution
-4. Glass wash and autoclaving of specialty labware
-	- Integra 8 row reservoir
-	- 1.2 ml microtiter tubes 	
-
+1. Sterile techniques and cell culture
+2. Molecular biology and cloning
+3. Immunofluorescence procedures and microscopy
+4. Preparation of other reagents
+5. Common lab chores
+	- Preparation of common reagent
+	- Glass wash and autoclaving	
+	
 ## 4. Professional development (10% effort)
 1. Learning new technical skills (e.g. programming)
 2. Other career development opportunities
