@@ -6,7 +6,7 @@
 3. Inventory management of chemicals, plasmids, and mammalian cell lines
 4. Expanding and freezing cell lines for lab master stock
 5. Chemical and bio-waste disposal
-6. Instructing and assigning common lab chores among group members
+6. Instructing and assigning common lab duties among group members
 7. Instructing lab safety and regulation compliance for group members
 
 ## 2. Scientific projects (40% effort)
@@ -28,7 +28,7 @@
 2. Molecular biology and cloning
 3. Immunofluorescence procedures and microscopy
 4. Preparation of other reagents
-5. Common lab chores
+5. Lab duties
 	- Preparation of common reagent
 	- Glass wash and autoclaving	
 	

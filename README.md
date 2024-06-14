@@ -54,11 +54,13 @@ We thrive on transparently sharing ideas, findings, and concerns among lab membe
 Our main mode of digital communication is Slack and email. Slack is good for speed, while email is preferred for longer text and archiving purposes. 
 Only members can post to the group's mailing list.
 
-### Wet lab work
+## Lab work and Lab duties
 
-Our Lab Manager is the go-to person if you have any questions about day-to-day wet lab operations and experiments. Please see [Lab Manager Responsbilities](LabManager.md). In addition to placing orders and ensuring that the lab runs smoothly, the Lab Manager can train you with useful skills.
+Our Lab Manager is the go-to person if you have any questions about day-to-day wet lab operations and experiments. The Lab Manager places orders, ensures that the lab runs smoothly, train new members, and distributes lab duties.
 
-### In-person work hours and vacation/absences
+Please see [Lab Manager Responsbilities](LabManager.md) and Lab Duties.
+
+## Work hours, vacation, and absences
 
 We expect you to spend a minimum of 50% of your non-class time physically in the lab. We need spontaneous, in-person communication.
 
