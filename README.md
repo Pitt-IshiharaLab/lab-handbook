@@ -33,13 +33,15 @@ We are committed to creating a diverse team that is inclusive to all cultural an
 
 
 - [ ] Get building access to BST3 and Murdoch via [CSB Access Request Form](https://forms.office.com/pages/responsepage.aspx?id=ifT5nqDg606HzDpSYRL9DX0A_WxZc7xAiilyOn5VZDlUMFlVOUNMOUkzVzVFMEJXRkVLQzM2SkEyTCQlQCN0PWcu).
-- [ ] Join lab mailing list via  [CSB Email List Subscription Form](https://forms.office.com/pages/responsepage.aspx?id=ifT5nqDg606HzDpSYRL9DdzwsnPuT99GkKDXIhKUpDlUQVk2QTRIMUxQM0lHUU5WTFJGWjU4V1k5Uy4u).
+- [ ] Join departmental mailing list via  [CSB Email List Subscription Form](https://forms.office.com/pages/responsepage.aspx?id=ifT5nqDg606HzDpSYRL9DdzwsnPuT99GkKDXIhKUpDlUQVk2QTRIMUxQM0lHUU5WTFJGWjU4V1k5Uy4u).
+- [ ] Join [CSB Department's sharepoint site](https://pitt.sharepoint.com/sites/ProjectB).
+
 - [ ] Join Slack groups (Ask Keisuke or others for invite.)
 	- IshiharaLab
 	- Compbiopitt
 	- Pittsburgh Assembloids 
-- [ ] Add shared folder to OneDrive. ([Site](https://pitt.sharepoint.com/sites/ishiharalab2/SitePages/CollabHome.aspx) > Documents > Add shortcut to your OneDrive > ReadMe)
-- [ ] Join [CSB Department's sharepoint site](https://pitt.sharepoint.com/sites/ProjectB).
+- [ ] Join Ishihara lab mailing list (ask Keisuke).
+- [ ] Add Ishihara lab shared folder to OneDrive. ([Site](https://pitt.sharepoint.com/sites/ishiharalab2/SitePages/CollabHome.aspx) > Documents > Add shortcut to your OneDrive > ReadMe)
 - [ ] Complete [LabMembersInfo](https://docs.google.com/spreadsheets/d/1gm7NiiYUaOu9xGvc94AHQDnNEBrtlLbd7ZU5bwCZrD8/edit?usp=sharing) including the schedule tab.
 - [ ] Install printers in BST3 ([instructions](https://sites.pitt.edu/~gengkon/)). 
 - [ ] Join [Pitt-IshiharaLab](https://github.com/Pitt-IshiharaLab) Github group. (Ask Keisuke for CDS membership).
