@@ -5,9 +5,8 @@
 2. Shipping and receiving
 3. Inventory management of chemicals, plasmids, and mammalian cell lines
 4. Expanding and freezing cell lines for lab master stock
-5. Chemical and bio-waste disposal
-6. Instructing and assigning common lab duties among group members
-7. Instructing lab safety and regulation compliance for group members
+5. Instructing and assigning common lab duties among group members
+6. Instructing lab safety and regulation compliance for group members
 
 ## 2. Scientific projects (40% effort)
 1. Building and testing new reagents
@@ -29,8 +28,10 @@
 3. Immunofluorescence procedures and microscopy
 4. Preparation of other reagents
 5. Lab duties
-	- Preparation of common reagent
-	- Glass wash and autoclaving	
+	- Lab floor cleaning
+	- Preparation of common reagents
+	- Glass wash and autoclaving
+	- Chemical and bio-waste disposal
 	
 ## 4. Professional development (10% effort)
 1. Learning new technical skills (e.g. programming)
