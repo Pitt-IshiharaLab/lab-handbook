@@ -58,7 +58,7 @@ Only members can post to the group's mailing list.
 
 Our Lab Manager is the go-to person if you have any questions about day-to-day wet lab operations and experiments. The Lab Manager places orders, ensures that the lab runs smoothly, train new members, and distributes lab duties.
 
-Please see [Lab Manager Responsbilities](LabManager.md) and Lab Duties.
+Please see [Lab Manager Responsbilities](LabManagerResponsibilities.md) and Lab Duties.
 
 ## Work hours, vacation, and absences
 
