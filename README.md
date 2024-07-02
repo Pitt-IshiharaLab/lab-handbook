@@ -31,8 +31,7 @@ We are committed to creating a diverse team that is inclusive to all cultural an
 
 ### Onboarding checklist
 
-
-- [ ] Get building access to BST3 and Murdoch via [CSB Access Request Form](https://forms.office.com/pages/responsepage.aspx?id=ifT5nqDg606HzDpSYRL9DX0A_WxZc7xAiilyOn5VZDlUMFlVOUNMOUkzVzVFMEJXRkVLQzM2SkEyTCQlQCN0PWcu).
+- [ ] Get building access to BST3 and Murdoch by contacting Jennifer Watt (jcwatt@pitt.edu). Then, fill out the CSB Access Request Form.
 - [ ] Join departmental mailing list via  [CSB Email List Subscription Form](https://forms.office.com/pages/responsepage.aspx?id=ifT5nqDg606HzDpSYRL9DdzwsnPuT99GkKDXIhKUpDlUQVk2QTRIMUxQM0lHUU5WTFJGWjU4V1k5Uy4u).
 - [ ] Join [CSB Department's sharepoint site](https://pitt.sharepoint.com/sites/ProjectB).
 
