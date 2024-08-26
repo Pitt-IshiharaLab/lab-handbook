@@ -72,3 +72,8 @@ Mark your vacation/absence days on the lab calendar. If you plan to be be away f
 ### Emergencies and asking for help
 
 We understand that unexpected emergencies arise and you cannot work as you had planned. In such cases, please let Keisuke know (no need to share the details, if you feel uncomfortable). If necessary, reach out for help to your fellow lab members to cover during your absence, but take into account that each person has their own work and family duties.
+
+# 5. Resources and useful links
+
+- [Undergraduate fellowships](https://www.frederickhonors.pitt.edu/academics/research-and-creative-fellowships) offered by David C. Frederick Honors College
+- [Summer Undergraduate Research Awards](https://www.asundergrad.pitt.edu/research/research-opportunities/summer-undergraduate-research-awards) offered by Office of Undergraduate Research
