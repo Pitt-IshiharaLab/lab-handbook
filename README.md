@@ -61,6 +61,8 @@ Our Lab Manager is the go-to person if you have any questions about day-to-day w
 
 Please read [Lab Manager Responsbilities](LabManagerResponsibilities.md). The guidelines for "Lab Duties" and "Ordering and Purchasing" are found on the shared OneDrive.
 
+If you require access to the Lab Workstation Fuji, please read [Fuji Workstation Usage Guidelines](FujiWorkstationUsageGuidelines.md) to setup your account. 
+
 ## Work hours, vacation, and absences
 
 We expect you to spend a minimum of 50% of your non-class time physically in the lab. We need spontaneous, in-person communication.
