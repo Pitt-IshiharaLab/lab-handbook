@@ -1,6 +1,6 @@
 # Fuji Workstation Usage Guidelines
 ## 1. Initial Setup and Login
-1. **Accounts:** All lab users should use their Pitt IDs to access the workstation.
+1. **Accounts:** All Ishihara lab users should use their Pitt IDs to log on.
 2. **Remote Access:** To connect remotely, use Microsoft Remote Desktop while connected to Pitt’s VPN via GlobalProtect.
 - PC name: fuji.csb.pitt.edu
 - User account: pitt \ (your Pitt ID)
