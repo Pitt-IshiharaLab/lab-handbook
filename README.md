@@ -38,7 +38,7 @@ We are committed to creating a diverse team that is inclusive to all cultural an
 - [ ] Join Slack groups (Ask Keisuke or others for invite.)
 	- IshiharaLab
 	- Compbiopitt
-	- Pittsburgh Assembloids 
+	- Pittsburgh Assembloids ([website](https://www.pghassembloid.org/))
 - [ ] Join Ishihara lab mailing list (ask Keisuke).
 - [ ] Add Ishihara lab shared folder to OneDrive. ([Site](https://pitt.sharepoint.com/sites/ishiharalab2/SitePages/CollabHome.aspx) > Documents > Add shortcut to your OneDrive > ReadMe)
 - [ ] Complete [LabMembersInfo](https://docs.google.com/spreadsheets/d/1gm7NiiYUaOu9xGvc94AHQDnNEBrtlLbd7ZU5bwCZrD8/edit?usp=sharing) including the schedule tab.
