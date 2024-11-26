@@ -38,7 +38,7 @@ We are committed to creating a diverse team that is inclusive to all cultural an
 - [ ] Join Slack groups (Ask Keisuke or others for invite.)
 	- IshiharaLab
 	- Compbiopitt
-	- Pittsburgh Assembloids 
+	- Pittsburgh Assembloids ([website](https://www.pghassembloid.org/))
 - [ ] Join Ishihara lab mailing list (ask Keisuke).
 - [ ] Add Ishihara lab shared folder to OneDrive. ([Site](https://pitt.sharepoint.com/sites/ishiharalab2/SitePages/CollabHome.aspx) > Documents > Add shortcut to your OneDrive > ReadMe)
 - [ ] Complete [LabMembersInfo](https://docs.google.com/spreadsheets/d/1gm7NiiYUaOu9xGvc94AHQDnNEBrtlLbd7ZU5bwCZrD8/edit?usp=sharing) including the schedule tab.
@@ -74,3 +74,8 @@ Mark your vacation/absence days on the lab calendar. If you plan to be be away f
 ### Emergencies and asking for help
 
 We understand that unexpected emergencies arise and you cannot work as you had planned. In such cases, please let Keisuke know (no need to share the details, if you feel uncomfortable). If necessary, reach out for help to your fellow lab members to cover during your absence, but take into account that each person has their own work and family duties.
+
+# 5. Resources and useful links
+
+- [Undergraduate fellowships](https://www.frederickhonors.pitt.edu/academics/research-and-creative-fellowships) offered by David C. Frederick Honors College
+- [Summer Undergraduate Research Awards](https://www.asundergrad.pitt.edu/research/research-opportunities/summer-undergraduate-research-awards) offered by Office of Undergraduate Research
