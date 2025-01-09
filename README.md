@@ -79,3 +79,4 @@ We understand that unexpected emergencies arise and you cannot work as you had p
 
 - [Undergraduate fellowships](https://www.frederickhonors.pitt.edu/academics/research-and-creative-fellowships) offered by David C. Frederick Honors College
 - [Summer Undergraduate Research Awards](https://www.asundergrad.pitt.edu/research/research-opportunities/summer-undergraduate-research-awards) offered by Office of Undergraduate Research
+- [Departmental computing cluster, HPC](https://www.csb.pitt.edu/resources/)
