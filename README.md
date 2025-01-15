@@ -55,6 +55,7 @@ We thrive on transparently sharing ideas, findings, and concerns among lab membe
 Our main mode of digital communication is Slack and email. Slack is good for speed, while email is preferred for longer text and archiving purposes. 
 Only members can post to the group's mailing list.
 
+
 ## Lab work, Lab duties, and Placing orders
 
 Our Lab Manager is the go-to person if you have any questions about day-to-day wet lab operations and experiments. The Lab Manager places orders for purchasing, ensures that the lab runs smoothly, train new members, and distributes lab duties.
@@ -70,6 +71,13 @@ We expect you to spend a minimum of 50% of your non-class time physically in the
 We will not impose core time. If you'd like to designate a certain day of the week for home office, please share this in the schedule tab in [LabMembersInfo](https://docs.google.com/spreadsheets/d/1gm7NiiYUaOu9xGvc94AHQDnNEBrtlLbd7ZU5bwCZrD8/edit?usp=sharing). Update your class schedule every semester.
 
 Mark your vacation/absence days on the lab calendar. If you plan to be be away for more than a week, let Keisuke know by email. 
+
+## Member responsibilities
+
+- **1-1 meeting summaries (All members):** After each 1-1 meeting with Keisuke, please send via email a brief summary of the discussion and any action items by the end of the next business day. This helps Keisuke and the lab member follow up on any items in preparation for the next meeting.
+- **CSB seminar attendance (PhD students 2nd year and above):** You are expected to attend all CSB departmental seminars as part of your training. If you do not attend regularly, the lab will not fund you to attend external conferences.
+- **Documentation and record keeping (All members)**: You are required to excellent practices to document your work. This is important for others to follow your work. Good documentation will also help your future self (trust me on this). If you do not have a strong preference, Keisuke recommends Lab Archives Electronic Lab for wet lab work and Github for code. Please ask Keisuke for an introduction. If you insist on physical lab notebooks, you must periodically scan and upload your entries to Lab Archives or the group's OneDrive folder.
+
 
 ### Emergencies and asking for help
 
