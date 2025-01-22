@@ -71,6 +71,13 @@ We will not impose core time. If you'd like to designate a certain day of the we
 
 Mark your vacation/absence days on the lab calendar. If you plan to be be away for more than a week, let Keisuke know by email. 
 
+## Member responsibilities
+
+- **1-1 meeting summaries (All members):** After each 1-1 meeting with Keisuke, please email a brief summary of the discussion and any action items by the end of the next business day. This helps Keisuke and the lab member to follow up on any items and prepare for the next meeting.
+- **Documentation and record keeping (All members)**: You are required to document all your research activities. *Good documentation will allow others and your future self to follow your work.* If you do not have a strong preference, Keisuke recommends Lab Archives Electronic Lab Notebook ([Ishihara Lab Common](https://mynotebook.labarchives.com/share/Ishihara%2520lab%2520Common%2520Notebook/MC4wfDkzOTEyMS8wL1RyZWVOb2RlLzMyMjE0NDg1ODF8MC4w) for wet lab work and [Ishihara Lab Github](https://github.com/Pitt-IshiharaLab) for code. Please ask Keisuke for access and an introduction. If you prefer physical lab notebooks, you must periodically scan and upload your entries to Lab Archives or the group's OneDrive folder.
+- **CSB seminar attendance (PhD students 2nd year and above):** You are expected to attend all CSB departmental seminars as part of your training. If you do not attend regularly, the lab will not fund your attendance to external conferences.
+
+
 ### Emergencies and asking for help
 
 We understand that unexpected emergencies arise and you cannot work as you had planned. In such cases, please let Keisuke know (no need to share the details, if you feel uncomfortable). If necessary, reach out for help to your fellow lab members to cover during your absence, but take into account that each person has their own work and family duties.
