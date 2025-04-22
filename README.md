@@ -31,7 +31,6 @@ We are committed to creating a diverse team that is inclusive to all cultural an
 
 ### Onboarding checklist
 
-
 - [ ] Get building access to BST3 and Murdoch by contacting Jennifer Watt (jcwatt@pitt.edu). Then, fill out the CSB Access Request Form.
 - [ ] Join departmental mailing list via  [CSB Email List Subscription Form](https://forms.office.com/pages/responsepage.aspx?id=ifT5nqDg606HzDpSYRL9DdzwsnPuT99GkKDXIhKUpDlUQVk2QTRIMUxQM0lHUU5WTFJGWjU4V1k5Uy4u).
 - [ ] Join [CSB Department's sharepoint site](https://pitt.sharepoint.com/sites/ProjectB).
@@ -39,7 +38,7 @@ We are committed to creating a diverse team that is inclusive to all cultural an
 - [ ] Join Slack groups (Ask Keisuke or others for invite.)
 	- IshiharaLab
 	- Compbiopitt
-	- Pittsburgh Assembloids 
+	- Pittsburgh Assembloids ([website](https://www.pghassembloid.org/))
 - [ ] Join Ishihara lab mailing list (ask Keisuke).
 - [ ] Add Ishihara lab shared folder to OneDrive. ([Site](https://pitt.sharepoint.com/sites/ishiharalab2/SitePages/CollabHome.aspx) > Documents > Add shortcut to your OneDrive > ReadMe)
 - [ ] Complete [LabMembersInfo](https://docs.google.com/spreadsheets/d/1gm7NiiYUaOu9xGvc94AHQDnNEBrtlLbd7ZU5bwCZrD8/edit?usp=sharing) including the schedule tab.
@@ -56,11 +55,13 @@ We thrive on transparently sharing ideas, findings, and concerns among lab membe
 Our main mode of digital communication is Slack and email. Slack is good for speed, while email is preferred for longer text and archiving purposes. 
 Only members can post to the group's mailing list.
 
-## Lab work and Lab duties
+## Lab work, Lab duties, and Placing orders
 
-Our Lab Manager is the go-to person if you have any questions about day-to-day wet lab operations and experiments. The Lab Manager places orders, ensures that the lab runs smoothly, train new members, and distributes lab duties.
+Our Lab Manager is the go-to person if you have any questions about day-to-day wet lab operations and experiments. The Lab Manager places orders for purchasing, ensures that the lab runs smoothly, train new members, and distributes lab duties.
 
-Please see [Lab Manager Responsbilities](LabManagerResponsibilities.md) and Lab Duties.
+Please read [Lab Manager Responsbilities](LabManagerResponsibilities.md). The guidelines for "Lab Duties" and "Ordering and Purchasing" are found on the shared OneDrive.
+
+To access the lab's workstation, please follow [Fuji Workstation Usage Guidelines](FujiWorkstationUsageGuidelines.md). 
 
 ## Work hours, vacation, and absences
 
@@ -70,13 +71,25 @@ We will not impose core time. If you'd like to designate a certain day of the we
 
 Mark your vacation/absence days on the lab calendar. If you plan to be be away for more than a week, let Keisuke know by email. 
 
+## Member responsibilities
+
+- **1-1 meeting summaries (All members):** After each 1-1 meeting with Keisuke, please email a brief summary of the discussion and any action items by the end of the next business day. This helps Keisuke and the lab member to follow up on any items and prepare for the next meeting.
+- **Documentation and record keeping (All members)**: You are required to document all your research activities. *Good documentation will allow others and your future self to follow your work.* If you do not have a strong preference, Keisuke recommends Lab Archives Electronic Lab Notebook ([Ishihara Lab Common](https://mynotebook.labarchives.com/share/Ishihara%2520lab%2520Common%2520Notebook/MC4wfDkzOTEyMS8wL1RyZWVOb2RlLzMyMjE0NDg1ODF8MC4w) for wet lab work and [Ishihara Lab Github](https://github.com/Pitt-IshiharaLab) for code. Please ask Keisuke for access and an introduction. If you prefer physical lab notebooks, you must periodically scan and upload your entries to Lab Archives or the group's OneDrive folder.
+- **CSB seminar attendance (PhD students 2nd year and above):** You are expected to attend all CSB departmental seminars as part of your training. If you do not attend regularly, the lab will not fund your attendance to external conferences.
+
+
 ### Emergencies and asking for help
 
 We understand that unexpected emergencies arise and you cannot work as you had planned. In such cases, please let Keisuke know (no need to share the details, if you feel uncomfortable). If necessary, reach out for help to your fellow lab members to cover during your absence, but take into account that each person has their own work and family duties.
-
 
 # 4. Leaving the lab
 
 ### Offboarding checklist
 
 - [ ] Move your name to the almuni section in [LabMembers.md](LabMembers.md). Include the period that you were part of the group. This will be your last pull request to this repository!
+
+# 5. Resources and useful links
+
+- [Undergraduate fellowships](https://www.frederickhonors.pitt.edu/academics/research-and-creative-fellowships) offered by David C. Frederick Honors College
+- [Summer Undergraduate Research Awards](https://www.asundergrad.pitt.edu/research/research-opportunities/summer-undergraduate-research-awards) offered by Office of Undergraduate Research
+- [Departmental computing cluster, HPC](https://www.csb.pitt.edu/resources/)
