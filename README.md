@@ -85,8 +85,11 @@ We understand that unexpected emergencies arise and you cannot work as you had p
 # 4. Leaving the lab
 
 ### Offboarding checklist
-
+- [ ] Experimental samples - Check what you have in the 4C, -20C, -80C, and also room temperature. Create a list of items and add it to your folder in the Ishihara lab NAS.
+- [ ] Data - All data must be placed in your folder in the Ishihara lab NAS.
+- [ ] Lab Notebooks - Organize your physical and digital notebooks. For non-LabArchive users, you must export all your notebooks as Word or PDF document and place a copy in the file server. You must leave the physical copy of the lab notebook with the lab. You can scan your notebook to make a personal copy.
 - [ ] Move your name to the almuni section in [LabMembers.md](LabMembers.md). Include the period that you were part of the group. This will be your last pull request to this repository!
+- [ ] Check all of the above with Keisuke.
 
 # 5. Resources and useful links
 
