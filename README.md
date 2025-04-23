@@ -85,9 +85,16 @@ We understand that unexpected emergencies arise and you cannot work as you had p
 # 4. Leaving the lab
 
 ### Offboarding checklist
-- [ ] Experimental samples - Check what you have in the 4C, -20C, -80C, and also room temperature. Create a list of items and add it to your folder in the Ishihara lab NAS.
-- [ ] Data - All data must be placed in your folder in the Ishihara lab NAS.
-- [ ] Lab Notebooks - Organize your physical and digital notebooks. For non-LabArchive users, you must export all your notebooks as Word or PDF document and place a copy in the file server. You must leave the physical copy of the lab notebook with the lab. You can scan your notebook to make a personal copy.
+- [ ] Experimental samples
+	- Check what you have in the 4C, -20C, -80C, and also room temperature. Organize and prune as necessary. If unsure to discard a sample, keep but label it clearly.
+	- For -20C and -80C, you must create a list of items and add this file to your folder in the Ishihara lab NAS.
+- [ ] Digital Data
+	- All digital data must be copied to your folder in the Ishihara lab NAS. This includes the files in the Ishihara lab shared OneDrive.
+	- (Interim policy) All microscopy data must be copied to the FujiData drive of the Fuji workstation.
+- [ ] Lab Notebooks
+	- LabArchives ELN: Make sure Keisuke is listed Administrator for your notebook. 
+	- Other digital notebooks: You must export all your notebooks as Word or PDF document and place the copies in your folder ithe Ishihara lab NAS. 
+	- Physical notebooks: This is a property of the Ishihara lab, which stays in the lab. You can make a personal copy by scanning the relevant pages.
 - [ ] Move your name to the almuni section in [LabMembers.md](LabMembers.md). Include the period that you were part of the group. This will be your last pull request to this repository!
 - [ ] Check all of the above with Keisuke.
 
