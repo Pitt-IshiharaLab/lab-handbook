@@ -82,6 +82,22 @@ Mark your vacation/absence days on the lab calendar. If you plan to be be away f
 
 We understand that unexpected emergencies arise and you cannot work as you had planned. In such cases, please let Keisuke know (no need to share the details, if you feel uncomfortable). If necessary, reach out for help to your fellow lab members to cover during your absence, but take into account that each person has their own work and family duties.
 
+# 4. Leaving the lab
+
+### Offboarding checklist
+- [ ] Experimental samples
+	- Check what you have in the 4C, -20C, -80C, and also room temperature. Organize and prune as necessary. If unsure to discard a sample, keep but label it clearly.
+	- For -20C and -80C, you must create a list of items and add this file to your folder in the Ishihara lab NAS.
+- [ ] Digital Data
+	- All digital data must be copied to your folder in the Ishihara lab NAS. This includes the files in the Ishihara lab shared OneDrive.
+	- (Interim policy) All microscopy data must be copied to the FujiData drive of the Fuji workstation.
+- [ ] Lab Notebooks
+	- LabArchives ELN: List Keisuke as Administrator for your notebook(s). Give access to your personal email for continued access after your Pitt account expires.
+	- Other digital notebooks: Export all entries as Word or PDF documents to  your folder in the Ishihara lab NAS. 
+	- Physical notebooks: Physical notebooks stay in the lab. Make a personal copy by scanning relevant pages.
+- [ ] Move your name to the almuni section in [LabMembers.md](LabMembers.md). Include the period that you were part of the group. This will be your last pull request to this repository!
+- [ ] Check all of the above with Keisuke.
+
 # 5. Resources and useful links
 
 - [Undergraduate fellowships](https://www.frederickhonors.pitt.edu/academics/research-and-creative-fellowships) offered by David C. Frederick Honors College
