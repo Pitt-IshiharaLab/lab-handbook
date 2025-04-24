@@ -92,9 +92,9 @@ We understand that unexpected emergencies arise and you cannot work as you had p
 	- All digital data must be copied to your folder in the Ishihara lab NAS. This includes the files in the Ishihara lab shared OneDrive.
 	- (Interim policy) All microscopy data must be copied to the FujiData drive of the Fuji workstation.
 - [ ] Lab Notebooks
-	- LabArchives ELN: Make sure Keisuke is listed Administrator for your notebook. Give access to your personal email to ensure continued access when your Pitt account expires. 
-	- Other digital notebooks: You must export all your notebooks as Word or PDF document and place the copies in your folder ithe Ishihara lab NAS. 
-	- Physical notebooks: This is a property of the Ishihara lab, which stays in the lab. You can make a personal copy by scanning the relevant pages.
+	- LabArchives ELN: List Keisuke as Administrator for your notebook(s). Give access to your personal email for continued access after your Pitt account expires.
+	- Other digital notebooks: Export all entries as Word or PDF documents to  your folder in the Ishihara lab NAS. 
+	- Physical notebooks: Physical notebooks stay in the lab. Make a personal copy by scanning relevant pages.
 - [ ] Move your name to the almuni section in [LabMembers.md](LabMembers.md). Include the period that you were part of the group. This will be your last pull request to this repository!
 - [ ] Check all of the above with Keisuke.
 
